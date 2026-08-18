@@ -1,0 +1,13 @@
+{
+  "name": "@jd962/dsh-reasoning-effort-bridge",
+  "description": "Reasoning Effort Bridge: fills default reasoningEfforts for third-party (llm-pi-ai) models so the composer model menu offers Off/Low/Medium/High/Xhigh/Max.",
+  "version": "0.1.0",
+  "author": "jd962",
+  "license": "MIT",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./package.json": "./package.json"
+  }
+}

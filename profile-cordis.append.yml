@@ -1,0 +1,6 @@
+# Reasoning Effort Bridge — appended to the profile's cordis.patch.yml by install.ps1.
+# A standalone top-level entry: loader patch arrays accept multiple insert blocks.
+- insert:
+    - id: reasoning-effort-bridge
+      name: '@jd962/dsh-reasoning-effort-bridge'
+      config: {}
