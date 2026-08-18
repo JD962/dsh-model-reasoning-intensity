@@ -1,0 +1,6 @@
+# Logs and local artifacts
+debug.log
+*.log
+
+# Dependencies
+node_modules/
